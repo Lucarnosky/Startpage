@@ -56,19 +56,10 @@ var favorites = [
       ["Reddit", "https://www.reddit.com/", "rfp"],
     ]
   ],
-  [ "Download",
-    [
-      ["RARBG", "https://proxyrarbg.org/index80.php", "rarbg"],
-    ]
-  ],
-  [ "OD",
-    [
-      ["Corsi", "http://s28.bitdl.ir/", "od1"],
-    ]
-  ],
   [ "Others",
     [
-      ["hugelol", "http://hugelol.com", "hgl"],
+      ["RARBG", "https://proxyrarbg.org/index80.php", "rarbg"],
+      ["Comics","https://readcomiconline.li/", "cms"],
     ]
   ]
 ];
