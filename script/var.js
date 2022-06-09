@@ -34,8 +34,8 @@ var images = [
   "1621004626.jpg"
 ];
 var searchs = [
-  ["!d", "https://duckduckgo.com/?q="],
   ["!g", "https://www.google.it/search?q="],
+  ["!d", "https://duckduckgo.com/?q="],
   ["!y", "https://www.youtube.com/results?search_query="],
   ["!w", "https://en.wikipedia.org/w/index.php?search="],
   
@@ -43,7 +43,7 @@ var searchs = [
 var favorites = [
   [ "Work",
     [
-      ["Github" , "https://github.com/", "gh"],
+      ["Github" , "https://github.com/Lucarnosky", "gh"],
       ["Gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
       ["Trello" , "http://trello.com/", "tr"]
     ]
@@ -64,14 +64,6 @@ var favorites = [
   [ "OD",
     [
       ["Corsi", "http://s28.bitdl.ir/", "od1"],
-      ["Film", "http://203.83.177.225/Data/Movies/", "od2"],
-    ]
-  ],
-  [ "Vault",
-    [
-      ["Sonarr", "http://78.46.76.156:8989/login?returnUrl=/", "sor"],
-      ["Radarr", "http://78.46.76.156:7878/login?returnUrl=/", "rar"],
-      ["NZBGet", "http://78.46.76.156:6789/", "nzb"]
     ]
   ],
   [ "Others",
