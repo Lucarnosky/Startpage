@@ -145,7 +145,7 @@ function initGreetings() {
 function initWeather() {
   locations.forEach(function (i, e) {
     $.ajax({
-      url:'http://api.openweathermap.org/data/2.5/weather?q=Tortona&lang=it&units=metric&appid=e539297397a38a23572a161e96f34f7b',
+      url:'https://api.openweathermap.org/data/2.5/weather?q=Tortona&lang=it&units=metric&appid=e539297397a38a23572a161e96f34f7b',
       success: function (weather) {
         console.log(weather);
         var weatherObj = '<p class="weather" id="' + locations[e] + '">' +
