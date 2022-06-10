@@ -43,7 +43,6 @@ var searchs = [
 var favorites = [
   [ "Work",
     [
-      ["Github" , "https://github.com/Lucarnosky", "gh"],
       ["Gmail" , "https://mail.google.com/mail/u/0/#inbox", "gm"],
       ["Trello" , "http://trello.com/", "tr"]
     ]
@@ -62,9 +61,16 @@ var favorites = [
       ["Comics","https://readcomiconline.li/", "cms"],
     ]
   ]
+  ["Dev",
+    [
+      ["Github" , "https://github.com/Lucarnosky", "gh"],
+      ["Heroku","https://dashboard.heroku.com/apps","her"]
+    ]
+]
 ];
 var feeds = [
   ["Ansa","https://www.ansa.it/sito/ansait_rss.xml"],
+  ["Repubblica","https://www.repubblica.it/rss/homepage/rss2.0.xml"],
   ["Internet is Beautiful", "https://www.reddit.com/r/InternetIsBeautiful/.rss"],
   ["Listen to this", "https://www.reddit.com/r/listentothis/.rss"]
 ];
