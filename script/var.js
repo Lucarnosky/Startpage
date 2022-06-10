@@ -60,13 +60,13 @@ var favorites = [
       ["RARBG", "https://proxyrarbg.org/index80.php", "rarbg"],
       ["Comics","https://readcomiconline.li/", "cms"],
     ]
-  ]
+  ],
   ["Dev",
     [
       ["Github" , "https://github.com/Lucarnosky", "gh"],
       ["Heroku","https://dashboard.heroku.com/apps","her"]
     ]
-]
+  ]
 ];
 var feeds = [
   ["Ansa","https://www.ansa.it/sito/ansait_rss.xml"],
